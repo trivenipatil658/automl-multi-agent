@@ -1,0 +1,15 @@
+# Environment
+.env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated files
+feedback.json
+automl_report.pdf
+model_comparison.png
+
+# IDE
+.vscode/
+.idea/

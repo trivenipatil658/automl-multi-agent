@@ -1,0 +1,10 @@
+streamlit
+langchain
+langgraph
+openai
+pandas
+scikit-learn
+numpy
+matplotlib
+seaborn
+python-dotenv
